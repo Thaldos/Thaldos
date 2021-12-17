@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/godevincent" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" alt="godevincent" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vincent-godé-b3770476/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="vincent godé" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/4156612" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="4156612" height="30" width="40" /></a>
 </p>
